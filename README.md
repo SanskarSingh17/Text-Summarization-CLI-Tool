@@ -7,7 +7,7 @@ This CLI tool summarizes text input using the Ollama API with the Qwen2 0.5B mod
 1. Make a folder and open it in Visual studio code
 
 2. Create and activate a virtual environment (if you haven't already):
-    - ** For creating** `python -m venv venv`
+    - **For creating** `python -m venv venv`
     - **For activating on Windows use** `venv\Scripts\activate`
     - **For activating On macOS use** `source venv/bin/activate` 
   
