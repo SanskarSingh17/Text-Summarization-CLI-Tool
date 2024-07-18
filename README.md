@@ -7,8 +7,8 @@ This CLI tool summarizes text input using the Ollama API with the Qwen2 0.5B mod
 1. Make a folder and open it in Visual studio code
   
 2. Open terminal and Clone the repository:
-    `git clone https://github.com/SanskarSingh17/Text-Summarization-CLI-Tool
-    `cd`
+    `git clone https://github.com/SanskarSingh17/Text-Summarization-CLI-Tool`
+    change directory to folder using `cd`
 
 
 3. Create and activate a virtual environment (if you haven't already):
