@@ -23,7 +23,7 @@ This CLI tool summarizes text input using the Ollama API with the Qwen2 0.5B mod
 
 ### Summarize Direct Text Input
 
-Summarize text from a file: `python index.py "Your text input here"`
+Summarize text from a file: `python index.py "Your text here"`
 
 Summarize text using gile: `python index.py "path/to/your/textfile.txt" --file`
 
