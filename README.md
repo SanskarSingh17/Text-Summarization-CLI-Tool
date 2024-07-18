@@ -16,7 +16,7 @@ This CLI tool summarizes text input using the Ollama API with the Qwen2 0.5B mod
     - **change directory** `cd Text-Summarization-CLI-Tool`
 
 5. Install the required dependencies:
-    `pip install -r requirements.txt`
+   `pip install -r requirements.txt`
 
 
 ## Usage
