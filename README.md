@@ -8,9 +8,8 @@ This CLI tool summarizes text input using the Ollama API with the Qwen2 0.5B mod
 
 2. Create and activate a virtual environment (if you haven't already):
     - ** For creating** `python -m venv venv`
-              **For activating**
-    - **On Windows use** `venv\Scripts\activate`
-    - **On macOS use** `source venv/bin/activate` 
+    - **For activating on Windows use** `venv\Scripts\activate`
+    - **For activating On macOS use** `source venv/bin/activate` 
   
 4. Open terminal and Clone the repository:
     `git clone https://github.com/SanskarSingh17/Text-Summarization-CLI-Tool`
