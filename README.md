@@ -12,8 +12,8 @@ This CLI tool summarizes text input using the Ollama API with the Qwen2 0.5B mod
 
 
 3. Create and activate a virtual environment (if you haven't already):
-    `python -m venv venv`
-    `source venv/bin/activate`  # On Windows use `venv\Scripts\activate`
+    `python -m venv env`
+    # On Windows use `venv\Scripts\activate`
 
 4. Install the required dependencies:
     `pip install -r requirements.txt`
